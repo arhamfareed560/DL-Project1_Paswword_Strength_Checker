@@ -27,4 +27,4 @@ You must have the [Java Development Kit (JDK)](https://www.oracle.com/java/techn
 ### Installation & Execution
 1. **Clone the repository:**
    ```bash
-  git clone [https://github.com/arhamfareed560/DL-Project1_Paswword_Strength_Checker.git](https://github.com/arhamfareed560/DL-Project1_Paswword_Strength_Checker.git)
+   git clone [https://github.com/arhamfareed560/DL-Project1_Paswword_Strength_Checker.git](https://github.com/arhamfareed560/DL-Project1_Paswword_Strength_Checker.git)
